@@ -9,9 +9,8 @@ jobs:
     name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
         with:
-          comment_tag_name: "https://techefix.com/"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://techefix.com/feed/"
+           feed_list: "https://techefix.com/feed/"
