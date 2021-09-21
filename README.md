@@ -12,7 +12,7 @@ I have experience in the fields of network, security and system administration e
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Bibo318)
 
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/Website-red.svg?&style=for-the-badge&logo=html5&logoColor=white" />](https://techefix.com)
+[<img align="left" alt="Website" src="https://img.shields.io/badge/Website-red.svg?&style=for-the-badge&logo=html5&logoColor=white" />](https://techefix.com)
 
 <p><a href="https://github.com/bibo318" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
@@ -32,7 +32,6 @@ I have experience in the fields of network, security and system administration e
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-####▶ [📘 Latest Blog Articles](https://techefix.com)
 
 ---
 <h2 align="center">⚡&#x1f4c8; My GitHub Stats &#x1f4c8;⚡</h2>
