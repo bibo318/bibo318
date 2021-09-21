@@ -12,10 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-<<<<<<< HEAD
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/4214976"
-=======
-          feed_list: "https://techefix.com/feed/"
->>>>>>> 9957f7d543479c65712e5327d24af7f36f3adeec
