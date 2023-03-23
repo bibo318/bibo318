@@ -12,7 +12,7 @@ I have experience in the fields of network, security and system administration e
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/demogod0)
 
-[<img align="left" alt="Website" src="https://img.shields.io/badge/Website-red.svg?&style=for-the-badge&logo=html5&logoColor=white" />](https://techefix.com)
+[<img align="left" alt="Website" src="https://img.shields.io/badge/Website-red.svg?&style=for-the-badge&logo=html5&logoColor=white" />](https://demongod.sellpass.io/))
 
 <p><a href="https://github.com/bibo318" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
