@@ -32,7 +32,7 @@
 <h3 align="center"> 
   <samp>
    <br>
- 「 I have experience in the fields of network, security and system administration engineer. Update new knowledge and support the community in the fields of governa <b>VietNam</b> 」
+ 「 I have experience in the fields of network, security and system administration engineer. Update new knowledge and support the community in the fields 」
     <br>
     <br>
   </samp>
