@@ -51,7 +51,7 @@
  <a href="https://twitter.com/INHNGCDNG5" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://t.me/demogod0" target="_blank">
+ <a href="https://t.me/debugs0" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="" />
  </a> 
  <a href="https://www.facebook.com/mr.dndung" target="_blank">
