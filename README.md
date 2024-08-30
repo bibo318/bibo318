@@ -53,10 +53,6 @@
  </a>
  <a href="https://t.me/debugs0" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="" />
- </a> 
- <a href="https://www.facebook.com/mr.dndung" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
 <a href="https://github.com/bibo318" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 <br />
