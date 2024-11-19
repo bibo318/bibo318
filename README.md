@@ -91,7 +91,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bibo318)](https://github-profile-trophy.vercel.app/?username=bibo318)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bibo318)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Top Open Source -
 [![Cloudflare-IP](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=Cloudflare-IP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/Cloudflare-IP)
