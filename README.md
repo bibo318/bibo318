@@ -94,6 +94,7 @@
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bibo318)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Top Open Source -
+[![nvidia_gpu_exporter_process](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=nvidia_gpu_exporter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/nvidia_gpu_exporter)
 [![Cloudflare-IP](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=Cloudflare-IP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/Cloudflare-IP)
 [![SVNAdmin_web](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=SVNAdmin_web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/SVNAdmin_web)
 [![HackTheBox-exploits](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=HackTheBox-exploits&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/HackTheBox-exploits)
