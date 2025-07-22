@@ -49,7 +49,7 @@
 
 <br />
 
-## 🎯 About This Cute Cyber Warrior 🐱‍💻
+## 🎯 About This me 🐱‍💻
 
 <p>
   <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacking gif" />
