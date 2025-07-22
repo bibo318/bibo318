@@ -1,130 +1,192 @@
-
 <img align="right" src="https://img.shields.io/github/followers/bibo318?style=social">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Debugs...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🎭+Welcome+to+Debugs'+Lair!;🔥+Red+Team+Specialist;🎯+Penetration+Testing+Expert;💀+Ethical+Hacker;🚀+Security+Researcher;💻+Tool+Developer!&center=true&size=30&color=FF0000&width=600&height=70">
   </a>
 </h1>
 
-
-<!--
-<p align="center">
-  <a href="https://github.com/bibo318"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <a href="https://komarev.com/ghpvc/?username=bibo318">
-  <img align="right" src="https://komarev.com/ghpvc/?username=bibo318&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=bibo318&label=🕵️+Hackers+Visited&color=red&style=flat" alt="Profile visitor" />
 </a>
-
 
 [![wakatime](https://wakatime.com/badge/user/018d1a6d-165a-4e0e-bd5d-48a6e9326772.svg)](https://wakatime.com/@bibo318)
 
-<!-- Intro  -->
-<!--<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://debugs.hashnode.dev">Debugs</a></b>
-        </samp>
-</h3> -->
-
-
-<h3 align="center"> 
+<h3 align="center">
   <samp>
-   <br>
- 「 I have experience in the fields of network, security and system administration engineer. Update new knowledge and support the community in the fields 」
+    <br>
+    🎪 「 Professional Red Team Operator | Penetration Testing Specialist | Security Tool Developer 」 🎪
+    <br>
+    🍕 「 Turning Pizza & Coffee into Exploits since 2020 ☕ → 💥 」 🍕
     <br>
     <br>
   </samp>
-</p>
 </h3>
+
 <p align="center">
- <a href="https://debugs.hashnode.dev" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
-<!--  <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a> -->
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/INHNGCDNG5" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://t.me/debugs0" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="" />
-<a href="https://github.com/bibo318" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://24htech.net/" target="blank">
+    <img src="https://img.shields.io/badge/🌐_Tech_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white" alt="blog" />
+  </a>
+  <a href="https://tryhackme.com/p/bibo318" target="_blank">
+    <img src="https://img.shields.io/badge/🎯_TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://mobaxterm.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🛠️_MobaXterm_Tool-4CAF50?style=for-the-badge&logo=terminal&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/INHNGCDNG5" target="_blank">
+    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://t.me/debugs0" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
+
 <br />
 
-<!-- About Section -->
- # About me
- 
+## 🎯 About This Cute Cyber Warrior 🐱‍💻
+
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacking gif" />
   
- ✌️ &emsp; Enjoy to do technology and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and research technology and learning new features <br/><br/>
- 📧 &emsp; Reach me anytime: debugs.sys@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/bibo318/bibo318/issues)
-
+  🔥 &emsp; **Red Team Operator** - Making systems cry since 2020 😈<br/><br/>
+  
+  🎪 &emsp; **Penetration Tester** - 101+ repos of pure hacking magic ✨<br/><br/>
+  
+  🕵️ &emsp; **Security Researcher** - Finding bugs like a digital detective 🔍<br/><br/>
+  
+  🛠️ &emsp; **Tool Developer** - Creator of MobaXterm tools & more 🚀<br/><br/>
+  
+  📝 &emsp; **Tech Blogger** - Sharing knowledge at 24htech.net 📚<br/><br/>
+  
+  🎮 &emsp; **TryHackMe Player** - Pwning boxes for fun! 🏆<br/><br/>
+  
+  📧 &emsp; **Contact**: debugs.sys@gmail.com 💌<br/><br/>
+  
+  ☕ &emsp; **Fun Fact**: I debug with coffee and hack with love! ❤️
 </p>
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 
-## Use To Code
+## 🛠️ My Cute Hacking Arsenal 🎀
 
-<h3>🧰Programming languages</h3>
+### 🔴 Red Team Weapons of Mass Destruction 💣
 <p>
-  <img alt="Gitlab" src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/🐉_Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img alt="Metasploit" src="https://img.shields.io/badge/🚀_Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/🔥_Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img alt="Nmap" src="https://img.shields.io/badge/🎯_Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img alt="BloodHound" src="https://img.shields.io/badge/🩸_BloodHound-DC143C?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/🦈_Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bibo318)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Top Open Source -
-[![nvidia_gpu_exporter_process](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=nvidia_gpu_exporter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/nvidia_gpu_exporter)
-[![Cloudflare-IP](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=Cloudflare-IP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/Cloudflare-IP)
-[![SVNAdmin_web](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=SVNAdmin_web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/SVNAdmin_web)
-[![HackTheBox-exploits](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=HackTheBox-exploits&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/HackTheBox-exploits)
-[![Writeup-CTF](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=Writeup-CTF&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bibo318/Writeup-CTF)
-
-<p align="left">
-  <a href="https://github.com/bibo318?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+### 💻 Programming Magic Spells ✨
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/🐍_Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/⚡_JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="HTML5" src="https://img.shields.io/badge/🌐_HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/💙_PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/🐚_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/🚀_Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-<br/>
-<hr/>
-<br/>
+### ☁️ Cloud & Infrastructure Playground 🎡
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/☁️_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/🌩️_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/🐳_Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/⚓_Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/🦊_GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/🏗️_Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+## 🏆 My Cute Achievements & Trophies 🎖️
+
+<div align="center">
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bibo318&theme=darkhub&no-frame=true&margin-w=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 📊 Epic Stats That Make Me Proud 🥺
+- 📚 **101+ Repositories** - My digital library of hacking knowledge 📖
+- ⭐ **35+ Stars** - Community love and appreciation 💖
+- 🤝 **52+ Followers** - My cute hacker family 👨‍👩‍👧‍👦
+- 🎯 **TryHackMe Player** - Pwning boxes like a boss 😎
+- 📝 **Tech Blogger** - Sharing knowledge at 24htech.net 🌟
+
+### 🎪 My Specialties (What I'm Really Good At) 🌈
+- 🎯 **Active Directory Attacks** - Making Windows cry 😢
+- ☁️ **Cloud Security** - Floating in the cloud, finding holes ☁️
+- 🌐 **Web App Pentesting** - Breaking websites nicely 🔨
+- 🛠️ **Tool Development** - Creating awesome security tools 🎨
+- 📚 **Knowledge Sharing** - Teaching others to hack ethically 👨‍🏫
+
+## 🚀 My Adorable Security Projects 🎀
+
+### 🎯 Core Hacking Tools (My Babies) 👶
+
+[![hacktricks](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=hacktricks&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&text_color=8B949E&icon_color=FF1493)](https://github.com/bibo318/hacktricks)
+[![GPOHound](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=GPOHound&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&text_color=8B949E&icon_color=FF1493)](https://github.com/bibo318/GPOHound)
+
+### 🛠️ Utility Tools (My Helpers) 🤖
+
+[![MobaXterm-Active-GenKey](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=MobaXterm-Active-GenKey&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&text_color=8B949E&icon_color=FF1493)](https://github.com/bibo318/MobaXterm-Active-GenKey)
+[![AzurePassAuditor](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=AzurePassAuditor&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&text_color=8B949E&icon_color=FF1493)](https://github.com/bibo318/AzurePassAuditor)
+
+### 💡 Cool Development Tools 🎨
+
+[![cursor-vip](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=cursor-vip&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&text_color=8B949E&icon_color=FF1493)](https://github.com/bibo318/cursor-vip)
+[![nvidia_gpu_exporter](https://github-readme-stats.vercel.app/api/pin/?username=bibo318&repo=nvidia_gpu_exporter&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&text_color=8B949E&icon_color=FF1493)](https://github.com/bibo318/nvidia_gpu_exporter)
+
+<p align="center">
+  <a href="https://github.com/bibo318?tab=repositories" target="_blank">
+    <img alt="🎀 Explore All My 101 Cute Repos" title="All Repositories" src="https://img.shields.io/badge/-🎀_Explore_All_My_101_Cute_Repos-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+## 📊 My Hacking Statistics (Look How Active I Am!) 📈
 
 <p align="center">
   <a href="https://github.com/bibo318">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibo318&theme=radical&border=7F3FBF&background=0D1117" alt="Debugs GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibo318&theme=radical&border=FF69B4&background=0D1117&stroke=FF69B4&ring=FF1493&fire=FF0000&currStreakLabel=FF69B4" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bibo318">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibo318&theme=radical" alt="Debugs GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibo318&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/bibo318"><img alt="Debugs Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bibo318&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/bibo318"><img alt="Debugs Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bibo318&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<div align="center">
+  <a href="https://github.com/bibo318">
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bibo318&show_icons=true&count_private=true&theme=radical&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/bibo318">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bibo318&langs_count=8&layout=compact&theme=radical&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493" height="192px" width="49.5%"/>
+  </a>
+</div>
 
+<br/>
 
-![Debugs](https://github-readme-activity-graph.vercel.app/graph?username=bibo318&custom_title=Debugs's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bibo318&custom_title=🎀%20Debugs's%20Cute%20Hacking%20Activity%20Graph%20🎀&bg_color=0D1117&color=FF69B4&line=FF1493&point=FF0000&area_color=FF69B4&title_color=FF69B4&area=true)
+
+## 🎭 Fun Cyber Facts & My Philosophy 🌸
+
+<div align="center">
+
+```ascii
+    ╔══════════════════════════════════════╗
+    ║  🎀 "Hacking is not about breaking   ║
+    ║     things, it's about understanding ║
+    ║     how things work and making them  ║
+    ║     better!" 🌈                     ║
+    ║                                      ║
+    ║           - Debugs 💖               ║
+    ╚══════════════════════════════════════╝
