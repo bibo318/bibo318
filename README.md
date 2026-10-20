@@ -127,6 +127,11 @@
 - 🛠️ **Tool Development** - Creating awesome security tools 🎨
 - 📚 **Knowledge Sharing** - Teaching others to hack ethically 👨‍🏫
 
+### 🛡️ Security Research Spotlight 🔍
+- **CVE-2026-95985** — Kiro IDE issue in untrusted workspaces where an agent could write to global configuration.
+- 📢 Tracked in **AWS Security Bulletin [2026-117-AWS](https://aws.amazon.com/vi/security/security-bulletins/2026-117-aws/)**.
+- 🧾 Official CVE entry: [CVE-2026-95985](https://www.cve.org/cverecord?id=CVE-2026-95985).
+ 
 ## 🚀 My Adorable Security Projects 🎀
 
 ### 🎯 Core Hacking Tools (My Babies) 👶
